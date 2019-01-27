@@ -1,5 +1,6 @@
 # BAC_IWAMS
 ![GIT Workflow](https://github.com/AHS-AU/BAC_IWAMS/blob/master/Miscellaneous/Git%20Guide/BAC_IWAMS%20GIT%20Workflow.png)
+<br />
 The steps in the workflow figure are explained more detailed as following:
 1.	Checkout master on local and pull from remote.
 2.	Create branch and checkout.
