@@ -12,7 +12,7 @@ TODOs:
     2.  modules_and_classes.ipynb, Qa+b+c+d+e+f+g, OPTIONAL: Qh.
     3.  dummy_classifier.ipynb, Qa+b
     4.  metrics.ipynb, Qa+b+c+d+e+WIKI page documentation.
-    5.  WIKI PAGE LÆS BB
+    5.  WIKI PAGE LÆS BB (DEADLINE 19/2)
 
 
 ## GIT Workflow
