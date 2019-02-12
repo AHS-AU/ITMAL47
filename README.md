@@ -1,4 +1,4 @@
-# BAC_IWAMS
+# BAC_IWAMS (READ ME BROS)
 ## Journal 1 Opgaver
 TODOs:
 1.  L01:
@@ -15,7 +15,7 @@ TODOs:
     5.  WIKI PAGE LÆS BB
 
 
-
+## GIT Workflow
 ![GIT Workflow](https://github.com/AHS-AU/BAC_IWAMS/blob/master/Miscellaneous/Git%20Guide/BAC_IWAMS%20GIT%20Workflow.png)
 <br />
 The steps in the workflow figure are explained more detailed as following:
