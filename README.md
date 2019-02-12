@@ -1,4 +1,21 @@
 # BAC_IWAMS
+## Journal 1 Opgaver
+TODOs:
+1.  L01:
+    1. intro.ipynb, Qa+b+c.
+2.  L02:
+    1.  math.ipynb, Qa+b+c+d+e
+    2.  statistics.ipynb, Qa+b+c.
+    3.  train_test_split.ipynb, Qa+b+c+d,  OPTIONAL: Qe+f.
+3.  L03:
+    1.  datasets.ipynb, Qa+b+c+d+e+f+g
+    2.  modules_and_classes.ipynb, Qa+b+c+d+e+f+g, OPTIONAL: Qh.
+    3.  dummy_classifier.ipynb, Qa+b
+    4.  metrics.ipynb, Qa+b+c+d+e+WIKI page documentation.
+    5.  WIKI PAGE LÆS BB
+
+
+
 ![GIT Workflow](https://github.com/AHS-AU/BAC_IWAMS/blob/master/Miscellaneous/Git%20Guide/BAC_IWAMS%20GIT%20Workflow.png)
 <br />
 The steps in the workflow figure are explained more detailed as following:
