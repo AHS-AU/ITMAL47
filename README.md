@@ -1,17 +1,20 @@
 # BAC_IWAMS (READ ME BROS)
 ## Journal 1 Opgaver
+INITIALER = DEN ANSVARLIGE SOM SØRGER FOR AT ALT ER KLART!
+MAN KAN SELVFØLGELIG STADIG HJÆLPE HINANDEN!
+
 TODOs:
 1.  L01:
-    1. intro.ipynb, Qa+b+c.
+    1. intro.ipynb, Qa+b+c. (SHH)
 2.  L02:
-    1.  math.ipynb, Qa+b+c+d+e
-    2.  statistics.ipynb, Qa+b+c.
-    3.  train_test_split.ipynb, Qa+b+c+d,  OPTIONAL: Qe+f.
+    1.  math.ipynb, Qa+b+c+d+e (JJY)
+    2.  statistics.ipynb, Qa+b+c (KWM)
+    3.  train_test_split.ipynb, Qa+b+c+d,  OPTIONAL: Qe+f. (JJY)
 3.  L03:
-    1.  datasets.ipynb, Qa+b+c+d+e+f+g
-    2.  modules_and_classes.ipynb, Qa+b+c+d+e+f+g, OPTIONAL: Qh.
-    3.  dummy_classifier.ipynb, Qa+b
-    4.  metrics.ipynb, Qa+b+c+d+e+WIKI page documentation.
+    1.  datasets.ipynb, Qa+b+c+d+e+f+g (AHS)
+    2.  modules_and_classes.ipynb, Qa+b+c+d+e+f+g, OPTIONAL: Qh. (AHS)
+    3.  dummy_classifier.ipynb, Qa+b (SHH)
+    4.  metrics.ipynb, Qa+b+c+d+e+WIKI page documentation. (AHS)
     5.  WIKI PAGE LÆS BB (DEADLINE 19/2)
 
 
