@@ -20,7 +20,7 @@ TODOs:
 4.  L04:
     1.  linear_regression_1.ipynb, Qa+b
     2.  linear_regression_2.ipynb, Qa+b+c+d
-    3.  WIKI page documentation (part 2) LÆS BB
+    3.  WIKI page documentation (part 2) (**JOURNAL 2 DEADLINE 4/3**)
 
 
 ## GIT Workflow
