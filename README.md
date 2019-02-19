@@ -16,7 +16,11 @@ TODOs:
     2.  modules_and_classes.ipynb, Qa+b+c+d+e+f+g, OPTIONAL: Qh. (AHS)
     3.  dummy_classifier.ipynb, Qa+b (SHH)
     4.  metrics.ipynb, Qa+b+c+d+e+WIKI page documentation. (AHS)
-    5.  WIKI PAGE LÆS BB (DEADLINE 19/2)
+    5.  WIKI page documentation (part 1) LÆS BB (DEADLINE 19/2) (KWM)
+4.  L04:
+    1.  linear_regression_1.ipynb, Qa+b
+    2.  linear_regression_2.ipynb, Qa+b+c+d
+    3.  WIKI page documentation (part 2) LÆS BB
 
 
 ## GIT Workflow
