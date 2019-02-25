@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/kaspe/Documents/GIT/BAC/BAC_IWAMS/C_test/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\kaspe\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\kaspe\\Documents\\GIT\\BAC\\BAC_IWAMS\\C_test\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Users\\kaspe\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\kaspe\\Documents\\GIT\\BAC\\BAC_IWAMS\\C_test\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target native-lib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi22 --gcc-toolchain=C:/Users/kaspe/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64  -Dnative_lib_EXPORTS  --sysroot C:/Users/kaspe/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/kaspe/Documents/GIT/BAC/BAC_IWAMS/C_test/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/Users/kaspe/Documents/GIT/BAC/BAC_IWAMS/C_test/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/kaspe/Documents/GIT/BAC/BAC_IWAMS/C_test/app/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so",
+			"toolchain" : "519923649"
+		}
+	},
+	"toolchains" : 
+	{
+		"519923649" : 
+		{
+			"cCompilerExecutable" : "C:/Users/kaspe/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/kaspe/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

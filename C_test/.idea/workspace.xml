@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fde77b8-e392-4c5e-bd2a-748d6bf49054" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/c_test/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/glass.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/iot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/ui_msg_warning.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/ui_speechrgn_call.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/Algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/AlgoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/AlgoNativeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/CommandExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/EventReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/wifiap/WifiApManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/wifiap/WifiApStateListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/wifiap/WifiApUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_clock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/algobase-0.6.161.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/base-connectivity-sdk-0.5.104.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/basesdk-0.6.685.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/basesdkadvanced-0.6.685.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/basic-class-0.6.161.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/externalsdk-0.6.211.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/headsdk-0.6.685.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/headsdkadvanced-0.6.685.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/libAlgoBase.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/nft-sdk-0.1.4.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/robot-connectivity-sdk-0.5.104.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/sdkbase-0.1.69.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/sensorsdk-0.6.685.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/visionsdk-0.6.289.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/aar/visionsdkadvanced-0.6.289.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algo_include/general/LocalMapping.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algo_include/tools/impl/min_max.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algo_include/tools/linear_math/QuadWord.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algo_include/tools/linear_math/Quaternion.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algo_include/tools/linear_math/Scalar.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algo_include/tools/linear_math/Vector3.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algo_lib/libRealSense.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algo_lib/liblocal_mapping.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/core/env_config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/core/jniLocomotion.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/core/jniVision.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/interface/AlgoBase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/interface/ImuProcess.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/interface/RawData.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/interface/RawDataUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/interface/ninebot_log.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/interface/tf_data_type.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/utils/AlgoUtils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/utils/AlgoUtils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/utils/SocketClient.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/utils/SocketClient.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/utils/SocketServer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency/algobaseInclude/utils/SocketServer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/c_test/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/c_test/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/c_test/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/c_test/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/example/c_test/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_firstApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My_firstApp/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1829816080">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="cpp" value="2" />
+          <entry key="java" value="15" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="15" />
+          <entry key="ObjectiveC" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="101" />
+          <entry key="java" value="705" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="705" />
+          <entry key="ObjectiveC" value="101" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/Renderer.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/AlgoNativeInterface.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/Algo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/CommandExecutor.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/wifiap/WifiApStateListener.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/c_test/MainActivityTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/c_test/ExampleInstrumentedTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/c_test/ExampleUnitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/c_test/Clock.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/c_test/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/c_test/AsyncTaskExample.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/c_test/wifiap/WifiApStateListener.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/example/c_test/ExampleInstrumentedTest.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/example/c_test/ExampleUnitTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1687" />
+    <option name="y" value="37" />
+    <option name="width" value="948" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="C_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="C_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="C_test" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="C_test" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="C_test" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="C_test" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="cpp" type="9a30073f:AndroidJniFolderNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="ce0617163bcc5b1303" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../loomo-algodev" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kaspe\Documents\GIT\BAC\BAC_IWAMS\C_test" />
+      <recent name="C:\Users\kaspe\Documents\GIT\BAC\BAC_IWAMS\C_test\app\src\main" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.c_test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.c_test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kaspe\Documents\GIT\BAC\BAC_IWAMS\C_test\gradle" />
+      <recent name="C:\Users\kaspe\Documents\GIT\BAC\BAC_IWAMS\C_test" />
+      <recent name="C:\Users\kaspe\Documents\GIT\BAC\BAC_IWAMS\C_test\app\assets" />
+      <recent name="C:\Users\kaspe\Documents\GIT\BAC\BAC_IWAMS\C_test\app\src\androidTest\java\com\example\c_test" />
+      <recent name="C:\Users\kaspe\Documents\GIT\BAC\BAC_IWAMS\C_test\app\src\main\java\com\example\c_test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fde77b8-e392-4c5e-bd2a-748d6bf49054" name="Default Changelist" comment="" />
+      <created>1549287696415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549287696415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1687" y="37" width="948" height="1017" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3231982" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.3295964" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50061125" side_tool="true" weight="0.2174888" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49938875" visible="true" weight="0.46432617" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/AsyncTaskExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_clock.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/cpp/hello.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/wifiap/WifiApUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/AlgoApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/EventReceiver.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/wifiap/WifiApManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/Renderer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/AlgoNativeInterface.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/Algo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/CommandExecutor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/c_test/wifiap/WifiApStateListener.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/c_test/MainActivityTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/c_test/ExampleUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/c_test/ExampleInstrumentedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
