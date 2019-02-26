@@ -22,6 +22,15 @@ TODOs:
     2.  linear_regression_2.ipynb, Qa+b+c+d
     3.  WIKI page documentation (part 2) (**JOURNAL 2 DEADLINE 4/3**)
 
+## Journal 2 Opgaver
+TODOs:
+1.  L04:
+    1.  WIKI page documentation (part II) (SHH)
+2.  L05:
+    1.  gradient_descent.ipynb: Qa+b+c+d, OPTIONAL: Qe (JJY)
+    2.  capacity_under_overfitting.ipynb: Qa+b+c (AHS)
+    3.  generalization_error.ipynb  (KWM)
+
 
 ## GIT Workflow
 ![GIT Workflow](https://github.com/AHS-AU/BAC_IWAMS/blob/master/Miscellaneous/Git%20Guide/BAC_IWAMS%20GIT%20Workflow.png)
