@@ -2,7 +2,7 @@
 ## Journal 1 Opgaver
 Done Well Played
 
-## Journal 2 Opgaver
+## Journal 2 Opgaver - Deadline:  9 April 08:00.
 TODOs:
 1.  L04:
     1.  WIKI page documentation (part II) (SHH)
