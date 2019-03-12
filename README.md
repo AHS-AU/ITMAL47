@@ -1,26 +1,6 @@
-# BAC_IWAMS (READ ME BROS)
+# ITMAL47 (READ ME BROS)
 ## Journal 1 Opgaver
->!INITIALER = DEN ANSVARLIGE SOM SØRGER FOR AT ALT ER KLART! <br />
->!MAN KAN SELVFØLGELIG STADIG HJÆLPE HINANDEN!
->!Deadline for L01-L03 er d. 19/2!
-
-TODOs:
-1.  L01:
-    1. intro.ipynb, Qa+b+c. (SHH)
-2.  L02:
-    1.  math.ipynb, Qa+b+c+d+e (JJY)
-    2.  statistics.ipynb, Qa+b+c (KWM)
-    3.  train_test_split.ipynb, Qa+b+c+d,  OPTIONAL: Qe+f. (JJY)
-3.  L03:
-    1.  datasets.ipynb, Qa+b+c+d+e+f+g (AHS)
-    2.  modules_and_classes.ipynb, Qa+b+c+d+e+f+g, OPTIONAL: Qh. (AHS)
-    3.  dummy_classifier.ipynb, Qa+b (SHH)
-    4.  metrics.ipynb, Qa+b+c+d+e+WIKI page documentation. (AHS)
-    5.  WIKI page documentation (part 1) LÆS BB (DEADLINE 19/2) (KWM)
-4.  L04:
-    1.  linear_regression_1.ipynb, Qa+b
-    2.  linear_regression_2.ipynb, Qa+b+c+d
-    3.  WIKI page documentation (part 2) (**JOURNAL 2 DEADLINE 4/3**)
+Done Well Played
 
 ## Journal 2 Opgaver
 TODOs:
@@ -30,6 +10,15 @@ TODOs:
     1.  gradient_descent.ipynb: Qa+b+c+d, OPTIONAL: Qe (JJY)
     2.  capacity_under_overfitting.ipynb: Qa+b+c (AHS)
     3.  generalization_error.ipynb  (KWM)
+3.  L06:
+    1.  ITMAL19F_L06_Naive_Bayes_Intro_and_Assignment_for_J2.ipynb
+4.  L07:
+    1.  regulizers.ipynb: Qa+b+c+d
+    2.  gridsearch.ipynb: Qa+b+c+d
+5.  L08:
+    1.  todo
+6.  L09:
+    1.  todo
 
 
 ## GIT Workflow
