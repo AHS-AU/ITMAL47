@@ -11,10 +11,10 @@ TODOs:
     2.  capacity_under_overfitting.ipynb: Qa+b+c (AHS)
     3.  generalization_error.ipynb  (KWM)
 3.  L06:
-    1.  ITMAL19F_L06_Naive_Bayes_Intro_and_Assignment_for_J2.ipynb
+    1.  ITMAL19F_L06_Naive_Bayes_Intro_and_Assignment_for_J2.ipynb (SHH + KWM)
 4.  L07:
-    1.  regulizers.ipynb: Qa+b+c+d
-    2.  gridsearch.ipynb: Qa+b+c+d
+    1.  regulizers.ipynb: Qa+b+c+d (AHS)
+    2.  gridsearch.ipynb: Qa+b+c+d (JJY)
 5.  L08:
     1.  todo
 6.  L09:
