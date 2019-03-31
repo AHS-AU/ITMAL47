@@ -16,9 +16,12 @@ TODOs:
     1.  regulizers.ipynb: Qa+b+c+d (AHS)
     2.  gridsearch.ipynb: Qa+b+c+d (JJY)
 5.  L08:
-    1.  todo
+    1.  ITMAL19F_L08_PCA_Assignment_for_J2.ipynb: 1. "speed up by compression". 2. "noise reduction". 3. "PCA -> t-SNE features".
 6.  L09:
-    1.  todo
+    1.  neuron.ipynb: Qa+b, OPTIONAL: Qc instead of keras_mlp_mnist.ipynb: Qa+b(+c) (AHS)
+    2.  perceptron.ipynb: Qa+b+c+d
+    3.  keras_mlp_moon.ipynb: Qa+b+c, OPTIONAL: Qd (JJY)
+    4.  keras_mlp_mnist.ipynb: Qa+b, OPTIONAL: Qc
 
 
 ## GIT Workflow
