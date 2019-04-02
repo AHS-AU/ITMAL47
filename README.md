@@ -11,17 +11,17 @@ TODOs:
     2.  capacity_under_overfitting.ipynb: Qa+b+c (AHS)
     3.  generalization_error.ipynb  (KWM)
 3.  L06:
-    1.  ITMAL19F_L06_Naive_Bayes_Intro_and_Assignment_for_J2.ipynb (SHH + KWM)
+    1.  ITMAL19F_L06_Naive_Bayes_Intro_and_Assignment_for_J2.ipynb (KWM)
 4.  L07:
     1.  regulizers.ipynb: Qa+b+c+d (AHS)
     2.  gridsearch.ipynb: Qa+b+c+d (JJY)
 5.  L08:
-    1.  ITMAL19F_L08_PCA_Assignment_for_J2.ipynb: 1. "speed up by compression". 2. "noise reduction". 3. "PCA -> t-SNE features".
+    1.  ITMAL19F_L08_PCA_Assignment_for_J2.ipynb: 1. "speed up by compression". 2. "noise reduction". 3. "PCA -> t-SNE features".(SHH)
 6.  L09:
     1.  neuron.ipynb: Qa+b, OPTIONAL: Qc instead of keras_mlp_mnist.ipynb: Qa+b(+c) (AHS)
-    2.  perceptron.ipynb: Qa+b+c+d
+    2.  perceptron.ipynb: Qa+b+c+d(SHH)
     3.  keras_mlp_moon.ipynb: Qa+b+c, OPTIONAL: Qd (JJY)
-    4.  keras_mlp_mnist.ipynb: Qa+b, OPTIONAL: Qc
+    4.  keras_mlp_mnist.ipynb: Qa+b, OPTIONAL: Qc(KWM)
 
 
 ## GIT Workflow
